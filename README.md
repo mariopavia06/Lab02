@@ -21,7 +21,7 @@ da 1 a 12) e anno di scatto.
 I dati delle foto sono forniti nel file `album_foto.csv` che contiene un elenco di foto, una per riga, con le 
 informazioni (codice, titolo, autore, mese, anno). 
 
-Esempio di file `album_fotografico.csv`:
+Esempio di file `album_foto.csv`:
 ```file
 codice, titolo, autore, mese, anno
 P001,Tramonto sul mare,Elena Conti,7,2019
