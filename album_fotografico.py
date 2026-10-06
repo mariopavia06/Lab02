@@ -69,7 +69,7 @@ def aggiungi_foto(album, codice, titolo, autore, mese, anno, file_path):
     nuova_foto = {
         "codice": codice,
         "titolo": titolo,
-        "autore": autore,
+        "autore": autore
         "mese": mese
         "anno": anno
     }
